@@ -1,0 +1,7 @@
+@use 'reset';
+@use 'vars';
+
+html body {
+  background-color: vars.$main-color;
+}
+
